@@ -55,6 +55,13 @@ li{
   background: none;
   display:flex;
   padding :15px;
+
+}
+.button-tabs:hover{
+  background:#E8F5FE;
+  color:#1DA1F2;
+  border-radius: 50px;
+  margin-left:30px;
 }
 .tab-text{
   font-family: "Roboto",sans-serif;
@@ -71,11 +78,12 @@ li{
     border-radius: .25rem;
     background: #1DA1F2 !important;
     border-radius: 50px;
-    font-family: Poppins;
+    font-family: "Roboto" ,sans-serif;
     font-size: 15px;
     width: 200px;
     height: 50px;
     color: white !important;
     margin-left:20px;
+    cursor: pointer;
 }
 </style>

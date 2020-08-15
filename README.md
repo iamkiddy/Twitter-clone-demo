@@ -3,7 +3,7 @@
 ## Project setup
 
 [x] - Install various dependencies ...
-[] - Menu components
+[x] - Menu components
 
 ## Starting with the menu components
 [] - Instalise the twitter logo ...
