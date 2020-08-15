@@ -1,24 +1,18 @@
 # twitter-clone-demo
 
 ## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+[x] - Install various dependencies ...
+[] - Menu components
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Starting with the menu components
+[] - Instalise the twitter logo ...
+[] - Instalise the logos ...
+[] - Tweet button ...
+[] - Hover effects ...
+[] - Sub-profile ...
+## Ending with the menu compunents
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Starting with the feed components
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Ending with the feed components
